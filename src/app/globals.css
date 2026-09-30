@@ -13,4 +13,10 @@
 body {
   color: var(--foreground);
   background: var(--background);
+  font-size: 30px;
+  text-align: center;
+}
+
+a:visited {
+  color: violet;
 }
